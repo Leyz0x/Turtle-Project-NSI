@@ -1,0 +1,6 @@
+Répartiton des taches :
+
+Amine : - Création du cadre 
+        - Changer le nom du titre de la fenete
+
+Baptiste : - Encore rien 
