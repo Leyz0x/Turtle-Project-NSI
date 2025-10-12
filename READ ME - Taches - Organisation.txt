@@ -2,5 +2,10 @@ Répartiton des taches :
 
 Amine : - Création du cadre 
         - Changer le nom du titre de la fenete
+        - Ajoute une plaque d'immatriculation
+        - La voiture
 
-Baptiste : - Encore rien 
+
+Baptiste : - Fais le décor
+           - Colorie la voiture
+           - Ajoute nos noms sur la plaque
